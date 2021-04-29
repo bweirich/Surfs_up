@@ -20,11 +20,11 @@ The statistics found on all temperatures for the month of December are as follow
     - June (1,700)
     - December (1,517)
 - Range of data is greater for December
-    - June (Max 85&deg Min 64&deg, Range 21&deg)
-    - December (Max 83&deg, Min 56&deg, Range 27&deg)
+    - June (Max 85$^\circ$, Min 64$^\circ$, Range 21$^\circ$)
+    - December (Max 83$^\circ$, Min 56$^\circ$, Range 27$^\circ$)
 - Average temperature is greater for June
-    - June (74.94&deg)
-    - December (71.04&deg)
+    - June (74.94$^\circ$)
+    - December (71.04$^\circ$)
 
 ## Summary
 From the above analysis the temperature seems to be relatively consistent variable which will be beneficial for consistent year round business and profits.  
