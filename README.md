@@ -20,7 +20,7 @@ The statistics found on all temperatures for the month of December are as follow
     - June (1,700)
     - December (1,517)
 - Range of data is greater for December
-    - June (Max 85$^\circ$, Min 64$^\circ$, Range 21$^\circ$)
+    - June (Max 85*degree*, Min 64$^\circ$, Range 21$^\circ$)
     - December (Max 83$^\circ$, Min 56$^\circ$, Range 27$^\circ$)
 - Average temperature is greater for June
     - June (74.94$^\circ$)
